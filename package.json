@@ -1,5 +1,5 @@
 {
-  "name": "gitwiz",
+  "name": "gitwhiz",
   "version": "1.0.0",
   "description": "An AI terminal helper using GPT-3 and Node.js",
   "main": "index.js",
