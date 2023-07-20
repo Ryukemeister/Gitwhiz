@@ -6,8 +6,8 @@ Gitwhiz is an AI terminal assistant that makes using the command line easier tha
 
 Install Gitwhiz in three easy steps:
 
-1. Go to the [OpenAI](https://openai.com/) website, create an account, and generate your API key by navigating to the API Keys page in your account settings.
-2. Set the API key as an environment variable with the command: **"export OPEN_API_KEY=your API key"**
-3. Use npm to install Gitwhiz with the command: **"npm i gitwhiz"**
+1. Visit the [OpenAI](https://openai.com/) website and create an account. Generate your API key by navigating to the API Keys page in your account settings.
+2. Set the API key as an environment variable with the helf of the following command: `export OPEN_API_KEY=<YOUR_API_KEY>`
+3. Use npm to install Gitwhiz with the command: `npm i gitwhiz`
 
-You're ready to get started!
+And you're ready to get started, no more fearing the command line with Gitwhiz!
